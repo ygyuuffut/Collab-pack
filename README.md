@@ -1,3 +1,2 @@
 # Collab-pack
-To Do:
-Basically everything so far
+What is in plan: 1.15.2 Support
