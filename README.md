@@ -2,6 +2,23 @@
 
 Cartoonish Texture that aimed to support 1.15.2 right now
 
+## Progress
+
+[:white_small_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square:] 2.5% done
+
+- [x] **Confirm the version**
+
+- [ ] Tools
+
+- [ ] Particles
+
+- [ ] Gui Basics
+
+- [ ] Blocks
+  - [ ] Nothing so far
+
+- [ ] Items
+
 ## Installation
 
 Right now, we just begin in progress
