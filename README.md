@@ -37,3 +37,7 @@ Please create pull requests for what you want to see in the resourcepack...
 ## Creators (discord tags)
 - Author and co-author : CaptainB #8098 & ygyuuffut #6583
 - Team Crews: Trainwreck3000 #8733
+
+## Join this cause for your love of art and minecraft (or even more!)
+
+https://discord.gg/R5udZEy
